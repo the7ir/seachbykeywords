@@ -1,4 +1,3 @@
-
 AWS_ACCOUNT_ID
 accessKey
 access_key
